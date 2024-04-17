@@ -1,0 +1,11 @@
+Unicauca\RequirementsSystem\vista\interfaces\IniciarSesionView.class
+Unicauca\RequirementsSystem\servicios\interfaces\IAutenticacionService.class
+Unicauca\RequirementsSystem\servicios\DatabaseFactory$1.class
+Unicauca\RequirementsSystem\util\Database.class
+Unicauca\RequirementsSystem\RequirementsSystem.class
+Unicauca\RequirementsSystem\servicios\interfaces\IConnectionFactory.class
+Unicauca\RequirementsSystem\controlador\interfaces\IniciarSesionController.class
+Unicauca\RequirementsSystem\servicios\DatabaseFactory.class
+Unicauca\RequirementsSystem\servicios\DatabaseType.class
+Unicauca\RequirementsSystem\servicios\AutenticacionServiceImpl.class
+Unicauca\RequirementsSystem\servicios\MysqlDatabase.class
